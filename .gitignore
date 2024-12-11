@@ -1,0 +1,6 @@
+venv/
+/output/*
+/raw_strava_data/*
+
+!/output/.gitkeep
+!/raw_strava_data/.gitkeep
